@@ -2,7 +2,7 @@
 
    "use strict"
     $('.slider').ripples({
-      dropRadius: 0.01,
+      dropRadius: 10,
       perturbance: 0,
 
     });
